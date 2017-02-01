@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        var yoga = self.view.yoga
+        //var yoga = self.view.yoga
     }
 
     override func didReceiveMemoryWarning() {

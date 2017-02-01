@@ -11,6 +11,6 @@ import Foundation
 class viewController: UIViewController
 {
     override func viewDidLoad() {
-        var yoga = self.view.yoga
+        //var yoga = self.view.yoga
     }
 }
